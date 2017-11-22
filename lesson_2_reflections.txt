@@ -1,0 +1,14 @@
+Q1:
+What happens when you initialize a repository? Why do you need to do it?
+A1:
+Git init command initializes a repository by creating a hidden .git folder in which the metadata
+of the git version control is stored. It is important to initialize a repository so that you could
+push commits and have them all saved.
+
+Q2:
+How is the staging area different from the working directory and the repository? What value do you
+think it offers?
+A2:
+The staging area will only contain the files that has been added and not all the files from the working
+directory. This is valuable because it offer great flexibility by allowing you to choose which files
+do you wan to commit and which you don't.
