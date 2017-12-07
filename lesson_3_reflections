@@ -10,3 +10,11 @@ remote repository?
 A2:
 I understand why I would always want to push changes manually rather then automatically but I found no information
 about why I would like to pull changes manually rather then automatically. So I don't know what to answer here.
+
+Q3:
+Describe the differences between forks, clones and branches. When would you use one instead of another?
+A3:
+Forks are clones that happen directly on github server. After forking a repository, it will be visible on your github
+repositories page. Clones are full copies of a repository from the github server to ones local machine or from one
+location to another location within the same local machine. Branches are "turn points" that you can do from any commit
+that is checkout, from that point forward any changes made on that branch will be visible only on that branch.
