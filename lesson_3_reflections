@@ -1,2 +1,5 @@
 Q1:
 When would you want to create a remote repository rather then keeping all you work local?
+A1:
+Working local has it's advantages, but when you want to share your work with the public and/or also let contributors
+make changes then I need to make your repository remote.
