@@ -48,7 +48,7 @@ Q6:
 How might using version control make you more confident to make changes that
 could break something?
 A6:
-Version Controll saves all the files of all the commits made in the past. That makes it easy
+Version Control saves all the files of all the commits made in the past. That makes it easy
 to experiment new features without the fear of losing data.
 
 Q7:
