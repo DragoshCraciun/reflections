@@ -24,3 +24,11 @@ What is the benefit of having a copy of the last known state of the remote store
 Q4:
 Having a copy of the last known state of the remote stored locally would help me solve any conflicts that might be
 before pushing the changes to the remote.
+
+Q5:
+How would you collaborate without using Git or Github? What would be easier, and what would be harder?
+A5:
+Collaborating without the use of Git or Gitub would make things alot more difficult. The easy part would be that collaborators
+would not have to invest time in learning how to use git and github. The harder part would be the collaboration itelf. Being
+limited to the use of other version control programs like google drive or dropbox, will make saveing files at logical points
+alot more difficult and accesing them without an internet connection almost impossible.
