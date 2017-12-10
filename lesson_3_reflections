@@ -18,3 +18,9 @@ Forks are clones that happen directly on github server. After forking a reposito
 repositories page. Clones are full copies of a repository from the github server to ones local machine or from one
 location to another location within the same local machine. Branches are "turn points" that you can do from any commit
 that is checkout, from that point forward any changes made on that branch will be visible only on that branch.
+
+Q4:
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Q4:
+Having a copy of the last known state of the remote stored locally would help me solve any conflicts that might be
+before pushing the changes to the remote.
